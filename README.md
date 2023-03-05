@@ -1,2 +1,14 @@
-# awesome-vietnamese-dev
+# Awesome Vietnamese Dev
 A curated list of awesome Vietnamese developer talents who has repository stars >= 100
+
+## List
+
+- [phuocng](https://github.com/phuocng) <a href="https://github.com/phuocng"><img src="https://img.shields.io/github/followers/phuocng.svg?label=GitHub&style=social" alt="GitHub"></a>
+  - <a href="https://github.com/phuocng/csslayout"><img src="https://img.shields.io/github/stars/phuocng/csslayout?label=csslayout&style=social" alt="csslayout on GitHub"></a>
+  - <a href="https://github.com/phuocng/1loc"><img src="https://img.shields.io/github/stars/phuocng/1loc?label=1loc&style=social" alt="1loc on GitHub"></a>
+  - <a href="https://github.com/phuocng/html-dom"><img src="https://img.shields.io/github/stars/phuocng/html-dom?label=html-dom&style=social" alt="html-dom on GitHub"></a>
+
+- [huytd](https://github.com/huytd) <a href="https://github.com/huytd"><img src="https://img.shields.io/github/followers/huytd.svg?label=GitHub&style=social" alt="GitHub"></a>
+  - <a href="https://github.com/huytd/agar.io-clone"><img src="https://img.shields.io/github/stars/huytd/agar.io-clone.svg?label=agar.io-clone&style=social" alt="Agar.io-clone on GitHub"></a>
+  - <a href="https://github.com/huytd/kanban-app"><img src="https://img.shields.io/github/stars/huytd/kanban-app.svg?label=kanban-app&style=social" alt="Kanban-app on GitHub"></a>
+  - <a href="https://github.com/huytd/pomoday-v2"><img src="https://img.shields.io/github/stars/huytd/pomoday-v2.svg?label=pomoday-v2&style=social" alt="pomoday-v2 on GitHub"></a>
